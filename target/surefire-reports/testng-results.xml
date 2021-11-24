@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="92" started-at="2021-11-23T16:35:34 IST" finished-at="2021-11-23T16:35:34 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="92" started-at="2021-11-23T16:35:34 IST" finished-at="2021-11-23T16:35:34 IST">
+      <class name="Finacle.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Finacle.SeleniumTest@2d928643]" name="BrowserAutomation" duration-ms="1" started-at="2021-11-23T16:35:34 IST" finished-at="2021-11-23T16:35:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="CloseAutomation()[pri:0, instance:Finacle.SeleniumTest@2d928643]" name="CloseAutomation" duration-ms="0" started-at="2021-11-23T16:35:34 IST" finished-at="2021-11-23T16:35:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseAutomation -->
+      </class> <!-- Finacle.SeleniumTest -->
+      <class name="Finacle.AppiumTest">
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:Finacle.AppiumTest@56ef9176]" name="CloseApp" duration-ms="10" started-at="2021-11-23T16:35:34 IST" finished-at="2021-11-23T16:35:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:Finacle.AppiumTest@56ef9176]" name="OpenApp" duration-ms="0" started-at="2021-11-23T16:35:34 IST" finished-at="2021-11-23T16:35:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+      </class> <!-- Finacle.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
